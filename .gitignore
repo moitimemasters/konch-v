@@ -6,3 +6,4 @@ konch-v
 *.so
 *.dylib
 *.dll
+*.swp
